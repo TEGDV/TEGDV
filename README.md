@@ -10,11 +10,11 @@ I am Blockchain Developer and eternal student, I can stop of know more about dis
  
  🔭 I’m planning for a Project **Solana Blockchain: Arbitrage and Risk Managment Bot**.
  
- 🌱 I’m currently learning **Solana DeFi protocols and SPL token programming**
+ 🌱 I’m currently learning **Rust language**
  
  :books: I want to learn **Deep Learning** and **Machine Learaning**
  
- 👯 I’m looking to collaborate for a Rust and Solana based projects.
+ 👯 I’m looking to collaborate for a Rust based projects.
  
  💬 Ask me about Blockchain, Backend Development, and any Tech-related stuff.
 
