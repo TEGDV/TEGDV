@@ -12,7 +12,7 @@ I am Blockchain Developer and eternal student, I can stop of know more about dis
  
  🌱 I’m currently learning **Rust language**
  
- :books: I want to learn **Deep Learning** and **Machine Learaning**
+ :books: I want to learn **Low-Level Programing** and **Machine Learaning**
  
  👯 I’m looking to collaborate for a Rust based projects.
  
