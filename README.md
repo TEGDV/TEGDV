@@ -6,7 +6,7 @@
   
 </p>
 
-I am Blockchain Developer and eternal student, I can stop of know more about disrupting technologies and the people that built this ecosystem now I'm part of this revolution.
+I am Software Engineer and eternal student, I can stop of know more about disrupting technologies and the people that built this ecosystem now I'm part of this revolution.
  
  🔭 I’m planning for a Project **Solana Blockchain: Arbitrage and Risk Managment Bot**.
  
