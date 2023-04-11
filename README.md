@@ -8,15 +8,15 @@
 
 I am Software Engineer and eternal student, I can stop of know more about disrupting technologies and the people that built this ecosystem now I'm part of this revolution.
  
- 🔭 I’m planning for a Project **Solana Blockchain: Arbitrage and Risk Managment Bot**.
+ 🔭 I’m planning for a Project **IA assisted Lyrics and Chords site**.
  
- 🌱 I’m currently learning **Rust language**
+ 🌱 I’m currently learning **Algorithims and Data Structures**
  
  :books: I want to learn **Low-Level Programing** and **Machine Learaning**
  
  👯 I’m looking to collaborate for a Rust based projects.
  
- 💬 Ask me about Blockchain, Backend Development, and any Tech-related stuff.
+ 💬 Ask me about Backend Development and Rust
 
 
 ![Profile views](https://gpvc.arturio.dev/TEGDV)  <img src="https://img.shields.io/github/followers/TEGDV?style=for-the-badge?label=Follow" style=" float:left, margin-right:10px" />
