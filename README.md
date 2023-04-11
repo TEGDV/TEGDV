@@ -28,7 +28,7 @@ I am Software Engineer and eternal student, I can stop of know more about disrup
 
 
 ### Languages I know
-<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-Rust-red?style=for-the-badge&logo=rust"><img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/-Solidity-black?style=for-the-badge&logo=solidity&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-Rust-red?style=for-the-badge&logo=rust"><img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
 
 ### Tech & Tools
 
